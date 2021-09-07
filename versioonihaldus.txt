@@ -1,0 +1,5 @@
+Eesnimi:Tanel	
+Perenimi:Märjama
+Kursus:I kursus, VS21
+
+git commit -m "faili sisu muudetud"
